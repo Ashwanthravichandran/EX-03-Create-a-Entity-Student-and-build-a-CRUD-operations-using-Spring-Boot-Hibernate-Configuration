@@ -278,10 +278,11 @@ public class CrudApplication {
 ```
 Output:
 
-![Screenshot (243).png](Screenshot%20%28243%29.png)
-![Screenshot (244).png](Screenshot%20%28244%29.png)
-![Screenshot (245).png](Screenshot%20%28245%29.png)
-![Screenshot (246).png](Screenshot%20%28246%29.png)
+![Screenshot (243).png](Screenshots/Screenshot%20%28243%29.png)
+![Screenshot (244).png](Screenshots/Screenshot%20%28244%29.png)
+![Screenshot (245).png](Screenshots/Screenshot%20%28245%29.png)
+![Screenshot (246).png](Screenshots/Screenshot%20%28246%29.png)
+
 
 Result:
 Thus the development of a Spring Boot application that performs CRUD operations is completed successfully
